@@ -1,0 +1,12 @@
+name: BlockStats
+main: de.razkiel.blockstats.BlockStats
+version: 0.01
+author: Razkiel
+description: >
+             Get an Blocks modified Count
+
+commands:
+  bp:
+    description: Returns the total amount of placed Blocks
+    usage: |
+           /<command>

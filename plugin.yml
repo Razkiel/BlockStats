@@ -2,8 +2,9 @@ name: BlockStats
 main: de.razkiel.blockstats.BlockStats
 version: 0.01
 author: Razkiel
-description: >
-             Get an Blocks modified Count
+description:
+
+     Get an Blocks modified Count
 
 commands:
   bp:
